@@ -1,0 +1,429 @@
+# EESchema Netlist Version 1.1 created  Fri 14 Feb 2014 20:59:27 NZDT
+(
+ ( /52F28B0A SM1206 C1 0.1u
+  ( 1 N-000028 )
+  ( 2 N-000005 )
+ )
+ ( /52F28B08 SM1206 C2 0.1u
+  ( 1 N-000028 )
+  ( 2 N-000006 )
+ )
+ ( /52F28B07 SM1206 C3 0.1u
+  ( 1 N-000005 )
+  ( 2 N-000026 )
+ )
+ ( /52F28B09 SM1206 C4 0.1u
+  ( 1 N-000006 )
+  ( 2 N-000026 )
+ )
+ ( /52CCC240 SM1206 C5 0.1u
+  ( 1 Bias2 )
+  ( 2 GND )
+ )
+ ( /52F28C41 SM1206 C6 0.1u
+  ( 1 N-000003 )
+  ( 2 N-000027 )
+ )
+ ( /52F28C3E SM1206 C7 0.1u
+  ( 1 N-000030 )
+  ( 2 N-000003 )
+ )
+ ( /52F28C3F SM1206 C8 0.1u
+  ( 1 N-000004 )
+  ( 2 N-000027 )
+ )
+ ( /52F28C40 SM1206 C9 0.1u
+  ( 1 N-000030 )
+  ( 2 N-000004 )
+ )
+ ( /52CCC275 SM1206 C10 0.1u
+  ( 1 Bias1 )
+  ( 2 GND )
+ )
+ ( /52CCC014 SM1206 C11 0.1u
+  ( 1 Bias2 )
+  ( 2 GND )
+ )
+ ( /52CCC028 SM1206 C12 0.1u
+  ( 1 Bias1 )
+  ( 2 GND )
+ )
+ ( /52CCBF6E SM1206 C13 0.1u
+  ( 1 N-000025 )
+  ( 2 GND )
+ )
+ ( /52CCBEF5 SM1206 C14 0.1u
+  ( 1 N-000020 )
+  ( 2 N-000007 )
+ )
+ ( /52F28A3B SM1206 C15 0.1u
+  ( 1 N-000020 )
+  ( 2 N-000024 )
+ )
+ ( /52FDC569 SM1206 C16 0.1uF
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /52F28AB5 SM1206 C17 0.1u
+  ( 1 N-000007 )
+  ( 2 N-000029 )
+ )
+ ( /52F28A2E SM1206 C18 0.1u
+  ( 1 N-000024 )
+  ( 2 N-000029 )
+ )
+ ( /52FDC590 CP20 C19 100uF
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /52FDBA94 $noname$ D1 DIODESCH
+  ( 1 N-000017 )
+  ( 2 N-000001 )
+ )
+ ( /52CC9171 $noname$ D2 1N4007
+  ( 1 N-000026 )
+  ( 2 N-000030 )
+ )
+ ( /52FDBA6B $noname$ D3 DIODE
+  ( 1 N-000016 )
+  ( 2 GND )
+ )
+ ( /52CC8277 $noname$ D4 1N4007
+  ( 1 N-000030 )
+  ( 2 N-000021 )
+ )
+ ( /52CC8278 $noname$ D5 1N4007
+  ( 1 N-000020 )
+  ( 2 N-000021 )
+ )
+ ( /52CC8279 $noname$ D6 1N4007
+  ( 1 N-000025 )
+  ( 2 N-000020 )
+ )
+ ( /52CC9173 $noname$ L1 100_uH
+  ( 1 N-000026 )
+  ( 2 N-000019 )
+ )
+ ( /52CC8274 $noname$ L2 100_uH
+  ( 1 N-000023 )
+  ( 2 N-000030 )
+ )
+ ( /52CC8276 $noname$ L3 100_uH
+  ( 1 N-000021 )
+  ( 2 N-000018 )
+ )
+ ( /52CC8275 $noname$ L4 100_uH
+  ( 1 N-000022 )
+  ( 2 N-000020 )
+ )
+ ( /52FDBC5F TO92 Q1 BC237
+  ( B N-000012 )
+  ( C N-000001 )
+  ( E GND )
+ )
+ ( /52FDBC4E TO92 Q2 BC237
+  ( B N-000017 )
+  ( C N-000013 )
+  ( E N-000016 )
+ )
+ ( /52FDBD18 TO126V-ECB Q3 BC307
+  ( B N-000008 )
+  ( C Bias2 )
+  ( E +12V )
+ )
+ ( /52FDBC90 TO126V-ECB Q4 BC237
+  ( B N-000010 )
+  ( C Bias2 )
+  ( E GND )
+ )
+ ( /52FDBBD0 TO126V-ECB Q5 BC307
+  ( B N-000015 )
+  ( C Bias1 )
+  ( E +12V )
+ )
+ ( /52FDBC1E TO126V-ECB Q6 BC237
+  ( B N-000014 )
+  ( C Bias1 )
+  ( E GND )
+ )
+ ( /52FBA123 SM1206 R1 15K
+  ( 1 +12V )
+  ( 2 N-000012 )
+ )
+ ( /52FBA98A SM1206 R2 15K
+  ( 1 +12V )
+  ( 2 N-000017 )
+ )
+ ( /52CC91FA $noname$ R3 150R
+  ( 1 N-000019 )
+  ( 2 Bias2 )
+ )
+ ( /52FDBF5C SM1206 R4 22K
+  ( 1 +12V )
+  ( 2 N-000008 )
+ )
+ ( /52FBA010 SM1206 R5 2K2
+  ( 1 N-000008 )
+  ( 2 N-000013 )
+ )
+ ( /52CC7A4A SM1206 R6 2R2
+  ( 1 Bias1 )
+  ( 2 N-000023 )
+ )
+ ( /52F28CF7 SM1206 R7 2K2
+  ( 1 N-000021 )
+  ( 2 N-000018 )
+ )
+ ( /52FB9DF5 SM1206 R8 2K2
+  ( 1 N-000010 )
+  ( 2 Bias1 )
+ )
+ ( /52CC8272 $noname$ R9 150R
+  ( 1 N-000018 )
+  ( 2 Bias2 )
+ )
+ ( /52FB9E00 SM1206 R10 2K2
+  ( 1 N-000014 )
+  ( 2 Bias2 )
+ )
+ ( /52CC7A53 SM1206 R11 2R2
+  ( 1 Bias1 )
+  ( 2 N-000022 )
+ )
+ ( /52CC8273 $noname$ R12 150R
+  ( 1 Bias2 )
+  ( 2 N-000025 )
+ )
+ ( /52FDBDA1 SM1206 R13 22K
+  ( 1 N-000015 )
+  ( 2 +12V )
+ )
+ ( /52FB9FF2 SM1206 R14 2K2
+  ( 1 N-000001 )
+  ( 2 N-000015 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component C13
+ SM*
+ C?
+ C1-1
+$endlist
+$component C14
+ SM*
+ C?
+ C1-1
+$endlist
+$component C15
+ SM*
+ C?
+ C1-1
+$endlist
+$component C16
+ SM*
+ C?
+ C1-1
+$endlist
+$component C17
+ SM*
+ C?
+ C1-1
+$endlist
+$component C18
+ SM*
+ C?
+ C1-1
+$endlist
+$component C19
+ CP*
+ SM*
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component D3
+ D?
+ S*
+$endlist
+$component D4
+ D?
+ S*
+$endlist
+$component D5
+ D?
+ S*
+$endlist
+$component D6
+ D?
+ S*
+$endlist
+$component Q1
+ TO92-EBC
+$endlist
+$component Q2
+ TO92-EBC
+$endlist
+$component Q3
+ TO92-EBC
+$endlist
+$component Q4
+ TO92-EBC
+$endlist
+$component Q5
+ TO92-EBC
+$endlist
+$component Q6
+ TO92-EBC
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}
