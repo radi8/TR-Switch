@@ -1,206 +1,255 @@
-# EESchema Netlist Version 1.1 created  Fri 14 Feb 2014 20:59:27 NZDT
+# EESchema Netlist Version 1.1 created  Sun 16 Feb 2014 13:07:04 NZDT
 (
- ( /52F28B0A SM1206 C1 0.1u
-  ( 1 N-000028 )
-  ( 2 N-000005 )
- )
- ( /52F28B08 SM1206 C2 0.1u
-  ( 1 N-000028 )
-  ( 2 N-000006 )
- )
- ( /52F28B07 SM1206 C3 0.1u
-  ( 1 N-000005 )
-  ( 2 N-000026 )
- )
- ( /52F28B09 SM1206 C4 0.1u
-  ( 1 N-000006 )
-  ( 2 N-000026 )
- )
- ( /52CCC240 SM1206 C5 0.1u
-  ( 1 Bias2 )
-  ( 2 GND )
- )
- ( /52F28C41 SM1206 C6 0.1u
-  ( 1 N-000003 )
-  ( 2 N-000027 )
- )
- ( /52F28C3E SM1206 C7 0.1u
-  ( 1 N-000030 )
-  ( 2 N-000003 )
- )
- ( /52F28C3F SM1206 C8 0.1u
-  ( 1 N-000004 )
-  ( 2 N-000027 )
- )
- ( /52F28C40 SM1206 C9 0.1u
-  ( 1 N-000030 )
-  ( 2 N-000004 )
- )
- ( /52CCC275 SM1206 C10 0.1u
-  ( 1 Bias1 )
-  ( 2 GND )
- )
- ( /52CCC014 SM1206 C11 0.1u
-  ( 1 Bias2 )
-  ( 2 GND )
- )
- ( /52CCC028 SM1206 C12 0.1u
-  ( 1 Bias1 )
-  ( 2 GND )
- )
- ( /52CCBF6E SM1206 C13 0.1u
-  ( 1 N-000025 )
-  ( 2 GND )
- )
- ( /52CCBEF5 SM1206 C14 0.1u
-  ( 1 N-000020 )
-  ( 2 N-000007 )
- )
- ( /52F28A3B SM1206 C15 0.1u
-  ( 1 N-000020 )
-  ( 2 N-000024 )
- )
- ( /52FDC569 SM1206 C16 0.1uF
-  ( 1 +12V )
-  ( 2 GND )
- )
- ( /52F28AB5 SM1206 C17 0.1u
-  ( 1 N-000007 )
-  ( 2 N-000029 )
- )
- ( /52F28A2E SM1206 C18 0.1u
-  ( 1 N-000024 )
-  ( 2 N-000029 )
- )
- ( /52FDC590 CP20 C19 100uF
-  ( 1 +12V )
-  ( 2 GND )
- )
- ( /52FDBA94 $noname$ D1 DIODESCH
-  ( 1 N-000017 )
-  ( 2 N-000001 )
- )
- ( /52CC9171 $noname$ D2 1N4007
-  ( 1 N-000026 )
-  ( 2 N-000030 )
- )
- ( /52FDBA6B $noname$ D3 DIODE
-  ( 1 N-000016 )
-  ( 2 GND )
- )
- ( /52CC8277 $noname$ D4 1N4007
-  ( 1 N-000030 )
-  ( 2 N-000021 )
- )
- ( /52CC8278 $noname$ D5 1N4007
-  ( 1 N-000020 )
-  ( 2 N-000021 )
- )
- ( /52CC8279 $noname$ D6 1N4007
-  ( 1 N-000025 )
+ ( /52FFEEC3 SM1206 C1 0.1u
+  ( 1 N-000038 )
   ( 2 N-000020 )
  )
- ( /52CC9173 $noname$ L1 100_uH
-  ( 1 N-000026 )
+ ( /52FFEEC1 SM1206 C2 0.1u
+  ( 1 N-000038 )
+  ( 2 N-000031 )
+ )
+ ( /52FFEEC2 SM1206 C3 0.1u
+  ( 1 N-000038 )
+  ( 2 N-000030 )
+ )
+ ( /52CCBEF5 SM1206 C4 0.1u
+  ( 1 N-000020 )
   ( 2 N-000019 )
  )
- ( /52CC8274 $noname$ L2 100_uH
-  ( 1 N-000023 )
-  ( 2 N-000030 )
+ ( /52F28B0A SM1206 C5 0.1u
+  ( 1 N-000031 )
+  ( 2 N-000026 )
  )
- ( /52CC8276 $noname$ L3 100_uH
+ ( /52F28B08 SM1206 C6 0.1u
+  ( 1 N-000030 )
+  ( 2 N-000029 )
+ )
+ ( /52F28AB5 SM1206 C7 0.1u
+  ( 1 N-000019 )
+  ( 2 N-000009 )
+ )
+ ( /52F28B07 SM1206 C8 0.1u
+  ( 1 N-000026 )
+  ( 2 N-000009 )
+ )
+ ( /52F28B09 SM1206 C9 0.1u
+  ( 1 N-000029 )
+  ( 2 N-000009 )
+ )
+ ( /52FFF021 SM1206 C10 0.1u
+  ( 1 N-000027 )
+  ( 2 N-000035 )
+ )
+ ( /52F28A2E SM1206 C11 0.1u
+  ( 1 N-000028 )
+  ( 2 N-000027 )
+ )
+ ( /52F28A3B SM1206 C12 0.1u
+  ( 1 N-000039 )
+  ( 2 N-000028 )
+ )
+ ( /52CCC240 SM1206 C13 0.1u
+  ( 1 Bias2 )
+  ( 2 GND )
+ )
+ ( /52FFF01F SM1206 C14 0.1u
+  ( 1 N-000003 )
+  ( 2 N-000035 )
+ )
+ ( /52F28C41 SM1206 C15 0.1u
+  ( 1 N-000004 )
+  ( 2 N-000003 )
+ )
+ ( /52F28C3E SM1206 C16 0.1u
+  ( 1 N-000039 )
+  ( 2 N-000004 )
+ )
+ ( /52FFF020 SM1206 C17 0.1u
+  ( 1 N-000001 )
+  ( 2 N-000035 )
+ )
+ ( /52F28C3F SM1206 C18 0.1u
+  ( 1 N-000002 )
+  ( 2 N-000001 )
+ )
+ ( /52F28C40 SM1206 C19 0.1u
+  ( 1 N-000039 )
+  ( 2 N-000002 )
+ )
+ ( /52CCC275 SM1206 C20 0.1u
+  ( 1 Bias1 )
+  ( 2 GND )
+ )
+ ( /52CCC014 SM1206 C21 0.1u
+  ( 1 Bias2 )
+  ( 2 GND )
+ )
+ ( /52FDC569 SM1206 C22 0.1u
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /52CCC028 SM1206 C23 0.1u
+  ( 1 Bias1 )
+  ( 2 GND )
+ )
+ ( /52FDC590 CP20 C24 100uF
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /52CCBF6E SM1206 C25 0.1u
   ( 1 N-000021 )
+  ( 2 GND )
+ )
+ ( /52FFF7D2 SM1206 C26 0.1u
+  ( 1 N-000033 )
+  ( 2 N-000037 )
+ )
+ ( /52FFEC3F $noname$ D1 1N4148
+  ( 1 N-000014 )
+  ( 2 N-000015 )
+ )
+ ( /52FDBA6B $noname$ D2 1N4148
+  ( 1 N-000012 )
+  ( 2 GND )
+ )
+ ( /52CC9171 $noname$ D3 GP10Y
+  ( 1 N-000009 )
+  ( 2 N-000010 )
+ )
+ ( /52FFECAB $noname$ D4 GP10Y
+  ( 1 N-000010 )
+  ( 2 N-000032 )
+ )
+ ( /52CC8277 $noname$ D5 GP10Y
+  ( 1 N-000032 )
+  ( 2 N-000025 )
+ )
+ ( /52CC8278 $noname$ D6 GP10Y
+  ( 1 N-000033 )
+  ( 2 N-000025 )
+ )
+ ( /52CC8279 $noname$ D7 GP10Y
+  ( 1 N-000021 )
+  ( 2 N-000033 )
+ )
+ ( /52CC9173 $noname$ L1 100_uH
+  ( 1 N-000009 )
   ( 2 N-000018 )
  )
- ( /52CC8275 $noname$ L4 100_uH
+ ( /52CC8274 $noname$ L2 100_uH
   ( 1 N-000022 )
-  ( 2 N-000020 )
+  ( 2 N-000032 )
  )
- ( /52FDBC5F TO92 Q1 BC237
-  ( B N-000012 )
-  ( C N-000001 )
+ ( /52CC8276 $noname$ L3 100_uH
+  ( 1 N-000025 )
+  ( 2 N-000024 )
+ )
+ ( /52CC8275 $noname$ L4 100_uH
+  ( 1 N-000023 )
+  ( 2 N-000033 )
+ )
+ ( /52FFFA10 PINTST P1 Tx_out
+  ( 1 N-000038 )
+ )
+ ( /52FFFADB PINTST P2 Antenna
+  ( 1 N-000035 )
+ )
+ ( /52FFF9FD PINTST P3 Rx_in
+  ( 1 N-000037 )
+ )
+ ( /52FDBC5F TO126V-ECB Q1 PN100
+  ( B N-000016 )
+  ( C N-000015 )
   ( E GND )
  )
- ( /52FDBC4E TO92 Q2 BC237
-  ( B N-000017 )
-  ( C N-000013 )
-  ( E N-000016 )
- )
- ( /52FDBD18 TO126V-ECB Q3 BC307
-  ( B N-000008 )
-  ( C Bias2 )
-  ( E +12V )
- )
- ( /52FDBC90 TO126V-ECB Q4 BC237
-  ( B N-000010 )
-  ( C Bias2 )
-  ( E GND )
- )
- ( /52FDBBD0 TO126V-ECB Q5 BC307
-  ( B N-000015 )
-  ( C Bias1 )
-  ( E +12V )
- )
- ( /52FDBC1E TO126V-ECB Q6 BC237
+ ( /52FDBC4E TO126V-ECB Q2 PN100
   ( B N-000014 )
+  ( C N-000013 )
+  ( E N-000012 )
+ )
+ ( /52FDBD18 TO126V-ECB Q3 BD140
+  ( B N-000017 )
+  ( C Bias2 )
+  ( E +12V )
+ )
+ ( /52FDBC90 TO126V-ECB Q4 BD139
+  ( B N-000011 )
+  ( C Bias2 )
+  ( E GND )
+ )
+ ( /52FDBBD0 TO126V-ECB Q5 BD140
+  ( B N-000008 )
+  ( C Bias1 )
+  ( E +12V )
+ )
+ ( /52FDBC1E TO126V-ECB Q6 BD139
+  ( B N-000007 )
   ( C Bias1 )
   ( E GND )
  )
- ( /52FBA123 SM1206 R1 15K
+ ( /52FBA123 SM1206 R1 10K
   ( 1 +12V )
-  ( 2 N-000012 )
+  ( 2 N-000016 )
  )
- ( /52FBA98A SM1206 R2 15K
+ ( /52FBA98A SM1206 R2 10K
+  ( 1 +12V )
+  ( 2 N-000014 )
+ )
+ ( /52FDBF5C SM1206 R3 22K
   ( 1 +12V )
   ( 2 N-000017 )
  )
- ( /52CC91FA $noname$ R3 150R
-  ( 1 N-000019 )
-  ( 2 Bias2 )
- )
- ( /52FDBF5C SM1206 R4 22K
-  ( 1 +12V )
-  ( 2 N-000008 )
- )
- ( /52FBA010 SM1206 R5 2K2
-  ( 1 N-000008 )
+ ( /52FBA010 SM1206 R4 2K2
+  ( 1 N-000017 )
   ( 2 N-000013 )
  )
- ( /52CC7A4A SM1206 R6 2R2
-  ( 1 Bias1 )
-  ( 2 N-000023 )
+ ( /52FFED52 SM1206 R5 1M
+  ( 1 N-000010 )
+  ( 2 N-000009 )
  )
- ( /52F28CF7 SM1206 R7 2K2
-  ( 1 N-000021 )
+ ( /52CC91FA $noname$ R6 150R
+  ( 1 Bias2 )
   ( 2 N-000018 )
  )
+ ( /52FFED72 SM1206 R7 1M
+  ( 1 N-000032 )
+  ( 2 N-000010 )
+ )
  ( /52FB9DF5 SM1206 R8 2K2
-  ( 1 N-000010 )
+  ( 1 N-000011 )
   ( 2 Bias1 )
  )
- ( /52CC8272 $noname$ R9 150R
-  ( 1 N-000018 )
+ ( /52FB9E00 SM1206 R9 2K2
+  ( 1 N-000007 )
   ( 2 Bias2 )
  )
- ( /52FB9E00 SM1206 R10 2K2
-  ( 1 N-000014 )
-  ( 2 Bias2 )
- )
- ( /52CC7A53 SM1206 R11 2R2
+ ( /52CC7A4A SM1206 R10 2R2
   ( 1 Bias1 )
   ( 2 N-000022 )
  )
- ( /52CC8273 $noname$ R12 150R
-  ( 1 Bias2 )
-  ( 2 N-000025 )
+ ( /52F28CF7 SM1206 R11 2K2
+  ( 1 N-000025 )
+  ( 2 N-000024 )
+ )
+ ( /52CC8272 $noname$ R12 100R
+  ( 1 N-000024 )
+  ( 2 Bias2 )
  )
  ( /52FDBDA1 SM1206 R13 22K
-  ( 1 N-000015 )
+  ( 1 N-000008 )
   ( 2 +12V )
  )
  ( /52FB9FF2 SM1206 R14 2K2
-  ( 1 N-000001 )
-  ( 2 N-000015 )
+  ( 1 N-000015 )
+  ( 2 N-000008 )
+ )
+ ( /52CC7A53 SM1206 R15 2R2
+  ( 1 Bias1 )
+  ( 2 N-000023 )
+ )
+ ( /52CC8273 $noname$ R16 150R
+  ( 1 Bias2 )
+  ( 2 N-000021 )
  )
 )
 *
@@ -296,8 +345,43 @@ $component C18
  C1-1
 $endlist
 $component C19
+ SM*
+ C?
+ C1-1
+$endlist
+$component C20
+ SM*
+ C?
+ C1-1
+$endlist
+$component C21
+ SM*
+ C?
+ C1-1
+$endlist
+$component C22
+ SM*
+ C?
+ C1-1
+$endlist
+$component C23
+ SM*
+ C?
+ C1-1
+$endlist
+$component C24
  CP*
  SM*
+$endlist
+$component C25
+ SM*
+ C?
+ C1-1
+$endlist
+$component C26
+ SM*
+ C?
+ C1-1
 $endlist
 $component D1
  D?
@@ -320,6 +404,10 @@ $component D5
  S*
 $endlist
 $component D6
+ D?
+ S*
+$endlist
+$component D7
  D?
  S*
 $endlist
@@ -420,6 +508,18 @@ $component R13
  R?-*
 $endlist
 $component R14
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R16
  R?
  SM0603
  SM0805
