@@ -1,5 +1,5 @@
-update=Thu 13 Feb 2014 06:26:16 NZDT
-last_client=eeschema
+update=Tue 18 Feb 2014 15:42:59 NZDT
+last_client=kicad
 [eeschema]
 version=1
 LibDir=../_Library
@@ -62,3 +62,34 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+[pcbnew]
+version=1
+PadDrlX=320
+PadDimH=600
+PadDimV=600
+BoardThickness=630
+TxtPcbV=800
+TxtPcbH=600
+TxtModV=600
+TxtModH=600
+TxtModW=120
+VEgarde=100
+DrawLar=150
+EdgeLar=150
+TxtLar=120
+MSegLar=150
+LastNetListRead=TRswitch.net
+[pcbnew/libraries]
+LibDir=
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=libcms
+LibName7=display
+LibName8=valves
+LibName9=led
+LibName10=dip_sockets
+[general]
+version=1
