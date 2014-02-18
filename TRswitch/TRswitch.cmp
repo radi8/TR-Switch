@@ -1,8 +1,43 @@
-Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Tue 18 Feb 2014 16:53:29 NZDT
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Wed 19 Feb 2014 09:48:25 NZDT
+
+BeginCmp
+TimeStamp = /5303A999;
+Reference = +12v1;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
 
 BeginCmp
 TimeStamp = /53027FBF;
 Reference = Antenna1;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303A758;
+Reference = Bias-1;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303A751;
+Reference = Bias-2;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303A5FF;
+Reference = Bias_1;
+ValeurCmp = CONN_1;
+IdModule  = SIL-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303A5EE;
+Reference = Bias_2;
 ValeurCmp = CONN_1;
 IdModule  = SIL-1;
 EndCmp
