@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 18 Feb 2014 11:29:14 NZDT
+EESchema Schematic File Version 2  date Wed 19 Feb 2014 15:03:23 NZDT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -36,7 +36,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "17 feb 2014"
+Date "19 feb 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -44,205 +44,274 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 850  6200 0    60   ~ 0
-Drive from open collector\nwith Tx Low, Rx open.
+Connection ~ 4700 2500
 Wire Wire Line
-	6800 2500 6950 2500
+	6600 1150 5300 1150
 Wire Wire Line
-	4700 950  4700 1100
+	1650 2500 1800 2500
 Wire Wire Line
-	6100 1650 6100 1750
+	1800 6800 1800 7000
 Wire Wire Line
-	6100 1750 6400 1750
+	5300 1650 5300 1750
 Wire Wire Line
-	6400 2500 6100 2500
-Connection ~ 4700 1100
-Connection ~ 3000 2500
-Connection ~ 3000 2700
-Connection ~ 1800 2700
+	5300 1750 5600 1750
+Connection ~ 1800 2500
 Wire Wire Line
-	1800 2300 1800 3100
-Wire Wire Line
-	3000 3100 3000 2300
-Connection ~ 4500 1100
-Connection ~ 4500 2300
-Wire Wire Line
-	4100 2300 4900 2300
-Connection ~ 5700 3800
-Connection ~ 3300 2800
-Connection ~ 5300 2500
-Connection ~ 4150 3800
-Connection ~ 3800 2500
-Wire Wire Line
-	3800 2800 3800 2500
-Wire Wire Line
-	5300 2500 4300 2500
-Wire Wire Line
-	6600 3800 3800 3800
-Connection ~ 5750 4850
-Wire Wire Line
-	6450 5850 6450 4850
-Wire Wire Line
-	6450 4850 2150 4850
-Connection ~ 5250 7000
-Wire Wire Line
-	6450 6250 6450 7000
-Wire Wire Line
-	6450 7000 1800 7000
-Wire Wire Line
-	2850 5850 2850 6250
-Wire Wire Line
-	2650 6400 2650 6550
-Wire Wire Line
-	2650 6400 2450 6400
-Connection ~ 2450 7000
-Wire Wire Line
-	3250 6450 3250 6600
-Connection ~ 3250 4850
-Connection ~ 3800 4850
-Connection ~ 3800 7000
-Wire Wire Line
-	3800 7000 3800 7100
-Wire Wire Line
-	5750 5850 5750 6550
-Wire Wire Line
-	4850 6250 4950 6250
-Connection ~ 4300 5550
-Connection ~ 5050 5550
-Wire Wire Line
-	4500 5550 4300 5550
-Wire Wire Line
-	4500 5550 4850 5750
-Connection ~ 5050 5700
-Wire Wire Line
-	5100 5700 5050 5700
-Connection ~ 4300 5700
-Wire Wire Line
-	4250 5700 4300 5700
-Connection ~ 4100 7000
-Wire Wire Line
-	4100 7000 4100 6450
-Connection ~ 4300 4850
-Wire Wire Line
-	4300 4850 4300 5150
-Wire Wire Line
-	5750 6550 2650 6550
-Connection ~ 3250 7000
-Wire Wire Line
-	5400 3250 5700 3250
-Connection ~ 6400 1150
-Wire Wire Line
-	5300 1150 6600 1150
-Connection ~ 5950 3800
-Connection ~ 5700 3800
-Connection ~ 6100 1150
-Connection ~ 6200 2500
-Wire Wire Line
-	3000 2500 3300 2500
-Wire Wire Line
-	3300 2500 3300 2950
-Wire Wire Line
-	6100 2500 6100 2350
-Connection ~ 6100 2500
-Wire Wire Line
-	6550 3000 6200 3000
-Wire Wire Line
-	5700 2500 5700 2650
-Wire Wire Line
-	5300 2500 5300 2350
-Wire Wire Line
-	6200 2600 6200 2500
-Wire Wire Line
-	4700 2300 4700 2500
-Connection ~ 5600 1150
-Wire Wire Line
-	6200 3650 6200 3800
-Connection ~ 6200 3800
-Wire Wire Line
-	6200 3000 6200 3150
-Connection ~ 4700 2300
-Wire Wire Line
-	5400 2750 5400 2650
-Wire Wire Line
-	5400 2650 5700 2650
-Wire Wire Line
-	3250 5350 4000 5350
-Wire Wire Line
-	3250 5850 3250 6050
-Wire Wire Line
-	2150 5850 2150 6600
-Wire Wire Line
-	2150 4850 2150 5350
-Wire Wire Line
-	5050 4850 5050 5150
-Wire Wire Line
-	2150 6600 1800 6600
-Connection ~ 2150 6600
-Wire Wire Line
-	5250 7000 5250 6450
-Wire Wire Line
-	4300 5550 4300 5950
-Wire Wire Line
-	4300 5950 4100 5950
-Wire Wire Line
-	4100 5950 4100 6050
-Wire Wire Line
-	5050 5950 5050 5550
-Wire Wire Line
-	5050 5950 5250 5950
-Wire Wire Line
-	5250 5950 5250 6050
-Wire Wire Line
-	4500 5750 4850 5550
-Wire Wire Line
-	4850 5550 5050 5550
-Wire Wire Line
-	4400 6250 4500 6250
-Wire Wire Line
-	2850 6250 2950 6250
-Wire Wire Line
-	5350 5350 5750 5350
-Connection ~ 5050 4850
-Wire Wire Line
-	2450 6400 2450 6250
-Wire Wire Line
-	2450 6800 2450 7000
-Wire Wire Line
-	2850 5350 2850 4850
-Connection ~ 2850 4850
-Wire Wire Line
-	6100 7000 6100 6250
-Connection ~ 6100 7000
-Wire Wire Line
-	6100 4850 6100 5850
-Connection ~ 6100 4850
-Wire Wire Line
-	5100 950  5100 800 
-Wire Wire Line
-	3300 3800 3300 3550
-Wire Wire Line
-	4300 2500 4300 2800
-Connection ~ 4300 2500
-Wire Wire Line
-	3900 2500 3700 2500
+	5700 3800 5700 3750
 Wire Wire Line
 	4100 1100 4900 1100
 Wire Wire Line
-	5700 3800 5700 3750
-Connection ~ 1800 2500
+	3900 2500 3700 2500
+Connection ~ 4300 2500
 Wire Wire Line
-	5600 1750 5300 1750
+	4300 2800 4300 2500
 Wire Wire Line
-	5300 1750 5300 1650
+	3300 3800 3300 3550
 Wire Wire Line
-	1800 7000 1800 6800
+	5100 950  5100 800 
+Connection ~ 6100 4850
 Wire Wire Line
-	1650 2500 1800 2500
+	6100 4850 6100 5850
+Connection ~ 6100 7000
+Wire Wire Line
+	6100 7000 6100 6250
+Connection ~ 2850 4850
+Wire Wire Line
+	2850 5350 2850 4850
+Wire Wire Line
+	2450 6800 2450 7000
+Wire Wire Line
+	2450 6250 2450 6400
+Connection ~ 5050 4850
+Wire Wire Line
+	5350 5350 5750 5350
+Wire Wire Line
+	2950 6250 2850 6250
+Wire Wire Line
+	4400 6250 4500 6250
+Wire Wire Line
+	4850 5550 5050 5550
+Wire Wire Line
+	4850 5550 4500 5750
+Wire Wire Line
+	5250 6050 5250 5950
+Wire Wire Line
+	5250 5950 5050 5950
+Wire Wire Line
+	5050 5950 5050 5550
+Wire Wire Line
+	4100 6050 4100 5950
+Wire Wire Line
+	4100 5950 4300 5950
+Wire Wire Line
+	4300 5950 4300 5550
+Wire Wire Line
+	5250 7000 5250 6450
+Connection ~ 2150 6600
+Wire Wire Line
+	1800 6600 2150 6600
+Wire Wire Line
+	5050 4850 5050 5150
+Wire Wire Line
+	2150 5350 2150 4850
+Wire Wire Line
+	2150 6600 2150 5850
+Wire Wire Line
+	3250 5850 3250 6050
+Wire Wire Line
+	3250 5350 4000 5350
+Wire Wire Line
+	5400 2650 5700 2650
+Wire Wire Line
+	5400 2650 5400 2750
+Connection ~ 4700 2300
+Wire Wire Line
+	6200 3150 6200 3000
+Connection ~ 6200 3800
+Wire Wire Line
+	6200 3650 6200 3800
+Connection ~ 5600 1150
+Wire Wire Line
+	4700 2300 4700 2500
+Wire Wire Line
+	6200 2600 6200 2500
+Wire Wire Line
+	5300 2350 5300 2500
+Wire Wire Line
+	5700 2650 5700 2500
+Wire Wire Line
+	6200 3000 6550 3000
+Connection ~ 6100 2500
+Wire Wire Line
+	6100 2350 6100 2500
+Wire Wire Line
+	3300 2950 3300 2500
+Wire Wire Line
+	3300 2500 3000 2500
+Connection ~ 6200 2500
+Connection ~ 6100 1150
+Connection ~ 5700 3800
+Connection ~ 5950 3800
+Connection ~ 6400 1150
+Wire Wire Line
+	5400 3250 5700 3250
+Connection ~ 3250 7000
+Wire Wire Line
+	5750 6550 2650 6550
+Wire Wire Line
+	4300 4850 4300 5150
+Connection ~ 4300 4850
+Wire Wire Line
+	4100 7000 4100 6450
+Connection ~ 4100 7000
+Connection ~ 4300 5700
+Connection ~ 5050 5700
+Wire Wire Line
+	4850 5750 4500 5550
+Wire Wire Line
+	4500 5550 4300 5550
+Connection ~ 5050 5550
+Connection ~ 4300 5550
+Wire Wire Line
+	4850 6250 4950 6250
+Wire Wire Line
+	5750 6550 5750 5850
+Wire Wire Line
+	3800 7000 3800 7100
+Connection ~ 3800 7000
+Connection ~ 3800 4850
+Connection ~ 3250 4850
+Wire Wire Line
+	3250 6450 3250 6600
+Connection ~ 2450 7000
+Wire Wire Line
+	2450 6400 2650 6400
+Wire Wire Line
+	2650 6400 2650 6550
+Wire Wire Line
+	2850 6250 2850 5850
+Wire Wire Line
+	1800 7000 6450 7000
+Wire Wire Line
+	6450 7000 6450 6250
+Connection ~ 5250 7000
+Wire Wire Line
+	2150 4850 6450 4850
+Wire Wire Line
+	6450 4850 6450 5850
+Connection ~ 5750 4850
+Wire Wire Line
+	6600 3800 3800 3800
+Wire Wire Line
+	5300 2500 4300 2500
+Wire Wire Line
+	3800 2800 3800 2500
+Connection ~ 3800 2500
+Connection ~ 4150 3800
+Connection ~ 5300 2500
+Connection ~ 3300 2800
+Connection ~ 5700 3800
+Wire Wire Line
+	4100 2300 4900 2300
+Connection ~ 4500 2300
+Connection ~ 4500 1100
+Wire Wire Line
+	3000 3100 3000 2300
+Wire Wire Line
+	1800 2300 1800 3100
+Connection ~ 1800 2700
+Connection ~ 3000 2700
+Connection ~ 3000 2500
+Connection ~ 4700 1100
+Wire Wire Line
+	6100 2500 6400 2500
+Wire Wire Line
+	6400 1750 6100 1750
+Wire Wire Line
+	6100 1750 6100 1650
+Wire Wire Line
+	4700 950  4700 1100
+Wire Wire Line
+	6800 2500 6950 2500
+Connection ~ 3650 7000
+Connection ~ 3650 4850
+Connection ~ 5750 5350
+Connection ~ 3250 5350
+Connection ~ 3300 3800
+Connection ~ 3300 2500
+Connection ~ 6100 1750
+Connection ~ 5300 1750
+Connection ~ 11500 4850
+$Comp
+L CONN_1 Bias-2
+U 1 1 5303FD32
+P 6750 3800
+F 0 "Bias-2" H 6830 3800 60  0000 L CNN
+F 1 "CONN_1" H 6750 3855 30  0001 C CNN
+	1    6750 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 Bias-1
+U 1 1 5303FD2B
+P 6750 1150
+F 0 "Bias-1" H 6830 1150 60  0000 L CNN
+F 1 "CONN_1" H 6750 1205 30  0001 C CNN
+	1    6750 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 +12v1
+U 1 1 5303FCB1
+P 3800 4700
+F 0 "+12v1" V 3880 4700 60  0000 L CNN
+F 1 "CONN_1" H 3800 4755 30  0001 C CNN
+	1    3800 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PWR_FLAG #FLG01
+U 1 1 5303FC5A
+P 3650 7000
+F 0 "#FLG01" H 3650 7270 30  0001 C CNN
+F 1 "PWR_FLAG" H 3650 7230 30  0000 C CNN
+	1    3650 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 Bias_1
+U 1 1 5303FC2F
+P 5200 5700
+F 0 "Bias_1" H 5280 5700 60  0000 L CNN
+F 1 "CONN_1" H 5200 5755 30  0001 C CNN
+	1    5200 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 Bias_2
+U 1 1 5303FBF6
+P 4150 5700
+F 0 "Bias_2" H 4230 5700 60  0000 L CNN
+F 1 "CONN_1" H 4150 5755 30  0001 C CNN
+	1    4150 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L AGND #PWR02
+U 1 1 5303FBCE
+P 3800 7100
+F 0 "#PWR02" H 3800 7100 40  0001 C CNN
+F 1 "AGND" H 3800 7030 50  0000 C CNN
+	1    3800 7100
+	1    0    0    -1  
+$EndComp
+Text Notes 850  6200 0    60   ~ 0
+Drive from open collector\nwith Tx Low, Rx open.
 $Comp
 L CONN_1 Eth3
 U 1 1 530280A7
 P 7100 2700
-F 0 "Eth3" V 7100 2600 40  0000 L CNN
+F 0 "Eth3" V 7100 2500 60  0000 L CNN
 F 1 "CONN_1" H 7100 2755 30  0001 C CNN
 	1    7100 2700
 	0    -1   -1   0   
@@ -251,7 +320,7 @@ $Comp
 L CONN_1 Rx1
 U 1 1 530280A3
 P 7100 2500
-F 0 "Rx1" H 7180 2500 40  0000 L CNN
+F 0 "Rx1" H 7180 2500 60  0000 L CNN
 F 1 "CONN_1" H 7100 2555 30  0001 C CNN
 	1    7100 2500
 	1    0    0    -1  
@@ -260,7 +329,7 @@ $Comp
 L CONN_1 Eth1
 U 1 1 5302802D
 P 1500 2700
-F 0 "Eth1" V 1500 2850 40  0000 L CNN
+F 0 "Eth1" V 1500 2850 60  0000 L CNN
 F 1 "CONN_1" H 1500 2755 30  0001 C CNN
 	1    1500 2700
 	0    -1   -1   0   
@@ -269,7 +338,7 @@ $Comp
 L CONN_1 Tx1
 U 1 1 53028028
 P 1500 2500
-F 0 "Tx1" H 1580 2500 40  0000 L CNN
+F 0 "Tx1" H 1580 2500 60  0000 L CNN
 F 1 "CONN_1" H 1500 2555 30  0001 C CNN
 	1    1500 2500
 	-1   0    0    1   
@@ -278,7 +347,7 @@ $Comp
 L CONN_1 Antenna1
 U 1 1 53027FBF
 P 4700 800
-F 0 "Antenna1" V 4800 650 40  0000 L CNN
+F 0 "Antenna1" V 4800 650 60  0000 L CNN
 F 1 "CONN_1" H 4700 855 30  0001 C CNN
 	1    4700 800 
 	0    -1   -1   0   
@@ -287,7 +356,7 @@ $Comp
 L CONN_1 Eth2
 U 1 1 53027F67
 P 4950 800
-F 0 "Eth2" H 4650 800 40  0000 L CNN
+F 0 "Eth2" H 4550 800 60  0000 L CNN
 F 1 "CONN_1" H 4950 855 30  0001 C CNN
 	1    4950 800 
 	-1   0    0    1   
@@ -297,7 +366,7 @@ L CONN_2 P1
 U 1 1 53027E18
 P 1450 6700
 F 0 "P1" H 1450 6700 40  0000 C CNN
-F 1 "Tx/Rx" H 1450 6950 40  0000 C CNN
+F 1 "Tx/Rx" H 1450 6950 60  0000 C CNN
 	1    1450 6700
 	-1   0    0    -1  
 $EndComp
@@ -311,19 +380,19 @@ F 1 "0.1u" H 3350 3900 50  0000 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR01
+L GND #PWR03
 U 1 1 53027D73
 P 3300 4200
-F 0 "#PWR01" H 3300 4200 30  0001 C CNN
+F 0 "#PWR03" H 3300 4200 30  0001 C CNN
 F 1 "GND" H 3300 4130 30  0001 C CNN
 	1    3300 4200
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR02
+L GND #PWR04
 U 1 1 53027D39
 P 5400 3650
-F 0 "#PWR02" H 5400 3650 30  0001 C CNN
+F 0 "#PWR04" H 5400 3650 30  0001 C CNN
 F 1 "GND" H 5400 3580 30  0001 C CNN
 	1    5400 3650
 	1    0    0    -1  
@@ -347,19 +416,19 @@ F 1 "0.1u" H 6450 1850 50  0000 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR03
+L GND #PWR05
 U 1 1 53027D0D
 P 6400 2150
-F 0 "#PWR03" H 6400 2150 30  0001 C CNN
+F 0 "#PWR05" H 6400 2150 30  0001 C CNN
 F 1 "GND" H 6400 2080 30  0001 C CNN
 	1    6400 2150
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR04
+L GND #PWR06
 U 1 1 53027D00
 P 5600 2150
-F 0 "#PWR04" H 5600 2150 30  0001 C CNN
+F 0 "#PWR06" H 5600 2150 30  0001 C CNN
 F 1 "GND" H 5600 2080 30  0001 C CNN
 	1    5600 2150
 	1    0    0    -1  
@@ -374,10 +443,10 @@ F 1 "0.1u" H 5650 1850 50  0000 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR05
+L GND #PWR07
 U 1 1 52FFFBE4
 P 1500 2850
-F 0 "#PWR05" H 1500 2850 30  0001 C CNN
+F 0 "#PWR07" H 1500 2850 30  0001 C CNN
 F 1 "GND" H 1500 2780 30  0001 C CNN
 	1    1500 2850
 	1    0    0    -1  
@@ -482,40 +551,40 @@ F 1 "1N4148" H 2650 6150 40  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L PWR_FLAG #FLG06
+L PWR_FLAG #FLG08
 U 1 1 52FDC84F
 P 4650 3350
-F 0 "#FLG06" H 4650 3620 30  0001 C CNN
+F 0 "#FLG08" H 4650 3620 30  0001 C CNN
 F 1 "PWR_FLAG" H 4650 3580 30  0000 C CNN
 	1    4650 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR07
+L GND #PWR09
 U 1 1 52FDC83E
 P 4650 3350
-F 0 "#PWR07" H 4650 3350 30  0001 C CNN
+F 0 "#PWR09" H 4650 3350 30  0001 C CNN
 F 1 "GND" H 4650 3280 30  0001 C CNN
 	1    4650 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR08
+L GND #PWR010
 U 1 1 52FDC82C
 P 5100 950
-F 0 "#PWR08" H 5100 950 30  0001 C CNN
+F 0 "#PWR010" H 5100 950 30  0001 C CNN
 F 1 "GND" H 5100 880 30  0001 C CNN
 	1    5100 950 
 	1    0    0    -1  
 $EndComp
 $Comp
-L PWR_FLAG #FLG09
+L PWR_FLAG #FLG011
 U 1 1 52FDC68F
-P 6450 4850
-F 0 "#FLG09" H 6450 5120 30  0001 C CNN
-F 1 "PWR_FLAG" H 6450 5080 30  0000 C CNN
-	1    6450 4850
-	1    0    0    -1  
+P 3650 4850
+F 0 "#FLG011" H 3650 5120 30  0001 C CNN
+F 1 "PWR_FLAG" H 3650 5080 30  0000 C CNN
+	1    3650 4850
+	-1   0    0    1   
 $EndComp
 $Comp
 L CP C28
@@ -621,24 +690,6 @@ F 1 "1N4148" H 3250 6700 40  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L GND #PWR010
-U 1 1 52FBADE2
-P 3800 7100
-F 0 "#PWR010" H 3800 7100 30  0001 C CNN
-F 1 "GND" H 3800 7030 30  0001 C CNN
-	1    3800 7100
-	1    0    0    -1  
-$EndComp
-$Comp
-L +12V #PWR011
-U 1 1 52FBADC7
-P 3800 4850
-F 0 "#PWR011" H 3800 4800 20  0001 C CNN
-F 1 "+12V" H 3800 4950 30  0000 C CNN
-	1    3800 4850
-	1    0    0    -1  
-$EndComp
-$Comp
 L R R2
 U 1 1 52FBA98A
 P 2850 5600
@@ -692,10 +743,6 @@ F 1 "2K2" V 4500 6000 50  0000 C CNN
 	1    4500 6000
 	-1   0    0    1   
 $EndComp
-Text GLabel 5100 5700 2    90   Input ~ 0
-Bias1
-Text GLabel 4250 5700 0    90   Input ~ 0
-Bias2
 $Comp
 L R R11
 U 1 1 52F28CF7
@@ -813,10 +860,6 @@ F 1 "GND" H 7100 2780 30  0001 C CNN
 	1    7100 2850
 	1    0    0    -1  
 $EndComp
-Text GLabel 6600 3800 2    90   Input ~ 0
-Bias2
-Text GLabel 6600 1150 2    90   Input ~ 0
-Bias1
 $Comp
 L C C22
 U 1 1 52CCC275
