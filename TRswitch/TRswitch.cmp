@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Wed 19 Feb 2014 14:10:30 NZDT
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Thu 20 Feb 2014 23:05:30 NZDT
 
 BeginCmp
 TimeStamp = /5303FCB1;
@@ -218,13 +218,6 @@ IdModule  = SM1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /52CCC028;
-Reference = C26;
-ValeurCmp = 0.1u;
-IdModule  = SM1206;
-EndCmp
-
-BeginCmp
 TimeStamp = /53027D0E;
 Reference = C27;
 ValeurCmp = 0.1u;
@@ -256,49 +249,49 @@ BeginCmp
 TimeStamp = /52FFEC3F;
 Reference = D1;
 ValeurCmp = 1N4148;
-IdModule  = D4;
+IdModule  = D3;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FDBA6B;
 Reference = D2;
 ValeurCmp = 1N4148;
-IdModule  = D4;
+IdModule  = D3;
 EndCmp
 
 BeginCmp
 TimeStamp = /52CC9171;
 Reference = D3;
 ValeurCmp = GP10Y;
-IdModule  = D6;
+IdModule  = D4;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FFECAB;
 Reference = D4;
 ValeurCmp = GP10Y;
-IdModule  = D6;
+IdModule  = D4;
 EndCmp
 
 BeginCmp
 TimeStamp = /52CC8277;
 Reference = D5;
 ValeurCmp = GP10Y;
-IdModule  = D6;
+IdModule  = D4;
 EndCmp
 
 BeginCmp
 TimeStamp = /52CC8278;
 Reference = D6;
 ValeurCmp = GP10Y;
-IdModule  = D6;
+IdModule  = D4;
 EndCmp
 
 BeginCmp
 TimeStamp = /52CC8279;
 Reference = D7;
 ValeurCmp = GP10Y;
-IdModule  = D6;
+IdModule  = D4;
 EndCmp
 
 BeginCmp
